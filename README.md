@@ -1,27 +1,33 @@
-# 🤖 AI in Cybersecurity — Lab 1
+# 🤖 AI in Cybersecurity — Lab Assignments
 
 > Academic lab work exploring the application of Artificial Intelligence concepts to cybersecurity.
 
-## Assignment 1
+## 📚 Assignments
 
-- [Open the Assignment 1 folder](./Assignment1/README.md)
-- [Original Lab 1 repository](https://github.com/Shahbaz-ali22/AI-in-Cybersecurity-LAB-1-Assignment)
+### Assignment 1
+- [Open Assignment 1 documentation](./Assignment1/README.md)
+- [View the original Assignment 1 repository](https://github.com/Shahbaz-ali22/AI-in-Cybersecurity-LAB-1-Assignment)
 
-## Overview
+### Assignment 2
+- [Open Assignment 2 documentation](./Assignment2/README.md)
+- [Open Assignment 2 notebook on GitHub](./aiincyberlab2.ipynb)
+- [Open the notebook in Google Colab](https://colab.research.google.com/drive/1CCyzS3B8LB1Ki8nRpHMA84J2S5fu0AMO)
 
-This repository contains coursework and practical work for an AI in Cybersecurity laboratory. It is maintained as a documented learning record alongside hands-on cybersecurity projects.
+## 🧭 Overview
 
-## Learning Areas
+This repository contains coursework and practical work for the AI in Cybersecurity laboratory. Each assignment is documented separately to keep notebooks, explanations, and supporting materials easy to find.
 
-- AI concepts relevant to cybersecurity
+## 🧠 Learning Areas
+
+- Artificial Intelligence concepts relevant to cybersecurity
 - Security problem analysis
-- Practical experimentation
-- Documentation of lab outcomes
+- Practical experimentation and model evaluation
+- Documentation of lab methods and outcomes
 
-## Repository Type
+## 🎓 Repository Type
 
-🎓 Academic / educational coursework
+Academic / educational coursework
 
-## Author
+## 👤 Author
 
 **Shahbaz Ali** — B.Sc. Cyber Security
