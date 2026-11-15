@@ -13,6 +13,10 @@
 - [Assignment 2 notebook](./Assignment2/aiincyberlab2.ipynb)
 - [Open Assignment 2 in Google Colab](https://colab.research.google.com/drive/1CCyzS3B8LB1Ki8nRpHMA84J2S5fu0AMO)
 
+### Assignment 3
+- [Open Assignment 3 folder](./Assignment3/)
+- [Assignment 3 notebook](./Assignment3/aiincybersecurity3.ipynb)
+
 ## 🧭 Overview
 
 This repository contains coursework and practical work for the AI in Cybersecurity laboratory. Each assignment has its own folder containing its notebook and documentation.
